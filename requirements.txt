@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+yt-dlp
+youtube-search-python
+requests
+flask
+gunicorn
